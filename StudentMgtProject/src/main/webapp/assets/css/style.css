@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	background-color: #293462;
+	width: 100%;
+}
+
+.footertxt {
+	color: #fff;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	background-color: #293462 !important;
+}
+
+.nav-link {
+	color: #fff;
+}
+
+.active {
+	color: #fff;
+}
+
+.navbar-brand {
+	color: #fff;
+}
+
+.fullwidth {
+	width: 100%;
+}
